@@ -1,0 +1,53 @@
+{
+  "name": "10's_the_game_-_thomaspigot_(copy)",
+  "version": "1.0.0",
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "@expo/metro-runtime": "~3.1.3",
+    "@react-native-async-storage/async-storage": "^1.22.3",
+    "@react-native-community/checkbox": "^0.5.17",
+    "@react-navigation/bottom-tabs": "^6.5.16",
+    "@react-navigation/core": "^6.2.1",
+    "@react-navigation/elements": "^1.3.3",
+    "@react-navigation/material-bottom-tabs": "^6.2.1",
+    "@react-navigation/material-top-tabs": "^6.2.1",
+    "@react-navigation/native": "^6.1.14",
+    "@react-navigation/native-stack": "^6.7.0",
+    "@react-navigation/routers": "^6.1.0",
+    "@react-navigation/stack": "^6.2.1",
+    "@types/react": "~18.2.45",
+    "expo": "^50.0.4",
+    "expo-font": "~11.10.2",
+    "expo-image": "~1.10.5",
+    "expo-status-bar": "~1.11.1",
+    "react": "18.2.0",
+    "react-native": "0.73.2",
+    "react-native-checkbox-form": "^1.1.5",
+    "react-native-confetti": "^0.1.0",
+    "react-native-countdown-circle-timer": "^3.2.1",
+    "react-native-custom-checkbox": "^1.5.2",
+    "react-native-gesture-handler": "~2.14.0",
+    "react-native-image-resizer": "^1.4.5",
+    "react-native-keyboard-aware-scroll-view": "^0.9.5",
+    "react-native-modal": "^13.0.1",
+    "react-native-paper": "^5.12.3",
+    "react-native-reanimated": "~3.6.2",
+    "react-native-safe-area-context": "^4.8.2",
+    "react-native-screens": "^3.29.0",
+    "react-native-svg": "14.1.0",
+    "react-native-uuid": "^2.0.1",
+    "react-redux": "^9.1.0",
+    "redux": "^5.0.1",
+    "typescript": "^5.3.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.12.9"
+  },
+  "private": true
+}
